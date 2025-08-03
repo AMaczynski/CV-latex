@@ -228,4 +228,3 @@ Last Updated on \today
 \newenvironment{tightemize}{
 \vspace{-\topsep}\begin{itemize}[label=\ding{212}]\itemsep1pt \parskip0pt \parsep0pt}
 {\end{itemize}\vspace{-\topsep}}
-
